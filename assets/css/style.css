@@ -1,0 +1,37 @@
+body{
+    background-color: teal
+}
+  .panel-primary > .panel-heading {
+    background-color: tan;
+    padding: 20px;
+   
+
+
+  }
+  .jumbotron {
+    margin-top: 10px;
+    border: 90px #646464;
+    background-color: lightblue
+    
+  }
+
+  .btn {
+    background-color: #646464;
+    color: white;
+  }
+
+  .panel-title{
+font-family: 'Notable', sans-serif;
+
+  }
+  #header{
+    font-family: 'Notable', sans-serif;
+  }
+
+  #train-table{
+    font-family: 'Bitter', serif
+  }
+
+  .panel-body{
+    font-family: 'Bitter', serif;
+  }
