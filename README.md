@@ -9,4 +9,4 @@
 <h4> User can start inputing the train name,destination, train time and frequency of train.
 
 <h3> Languages used: </h3>
-<h6> HTML, JavaScript, Jquery, Moment.js, CSS
+<h6> HTML, JavaScript, Jquery, Moment.js, CSS</h6>
